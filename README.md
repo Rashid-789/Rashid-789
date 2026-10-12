@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <img src="./assets/header-light.svg" width="100%" alt="Rashid Khan, backend and mobile developer. I build backends and mobile apps for agencies that are strong on design and frontend but don't keep a deep backend bench. Rawalpindi, Pakistan, UTC+5.">
   </picture>
+  
   <br><br>
   <a href="https://rashidiya-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-006D77?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/rashid-khan-70a018360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
